@@ -46,6 +46,14 @@ List of commands this console current supports:
 * `def save(self)` - Updates the attribute `updated_at` with the current datetime
 * `def to_dict(self)` - returns a dictionary containing all keys/values of the instance
 
+Web dynamic
+1. install flasgger
+2. make html files
+3. make js files
+4. css files
+5. fix errors
+
+
 Classes inherited from Base Model:
 * [amenity.py](/models/amenity.py)
 * [city.py](/models/city.py)
